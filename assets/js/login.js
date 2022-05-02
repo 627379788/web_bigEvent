@@ -11,7 +11,7 @@ $(function() {
     $('#link_reg').on('click', function() {
         $('.log_box1').hide()
         $('.reg_box1').show()
-        $('.loginAndRegBox').css('height', '355px')
+        $('.loginAndRegBox').css('height', '340px')
     })
 
 
