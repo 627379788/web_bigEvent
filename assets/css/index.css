@@ -34,6 +34,7 @@ a {
     line-height: 60px;
     text-align: center;
     user-select: none;
+    padding-right: 30px;
 }
 
 .layui-side-scroll .userinfo {
