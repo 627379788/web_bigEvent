@@ -1,0 +1,22 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: #f1f3f4;
+}
+
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#art_add,
+#art_edit {
+    padding-top: 20px;
+    padding-right: 30px;
+}
